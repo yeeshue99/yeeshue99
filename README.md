@@ -25,7 +25,7 @@
 [<img align="left" alt="Unity" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" />]
 [<img align="left" alt="R" width="26px" src="https://static.macupdate.com/products/50318/l/rstudio-logo.png?v=1594908134" />]
 [<img align="left" alt="Visual BASIC" width="26px" src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-7.jpg" />]
-[<img align="left" alt="Assembly" width="26px" src="https://gitconnected.com/public/images/tutorials/assembly-language" />]
+[<img align="left" alt="Assembly" width="26px" src="https://gitconnected.com/public/images/tutorials/svg/assembly-language.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Visual Studio" width="26px" src="https://www.softexia.com/wp-content/uploads/2019/03/Visual_Studio_logo.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="yeeshue99's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yeeshue99&show_icons=true&hide_border=true" />
 
 [hivelab]: https://sites.ucmerced.edu/nlercari/hive-lab
 [IDTech]: https://www.idtech.com
