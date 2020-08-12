@@ -19,9 +19,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="32px" src="https://lh3.googleusercontent.com/proxy/UbqmHiQ8TZPLcIcIlmFBwaBQT0gUJJzMTFrCweJrXfG3L1SkAa9c7pIQfqxxeNye7IFqRge2U80nx62ylpFGAFtxqBM" />
+<img align="left" alt="Python" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" />
 <img align="left" alt="C++" width="32px" src="https://ourcodeworld.com/public-media/gallery/categorielogo-5a284afe1346e.png" />
-<img align="left" alt="Java" width="32px" src="https://lh3.googleusercontent.com/proxy/res9wL6iVOoBVEnKtXt_d3TYhcy6846MqiJ2hyJzxz-k5DElBNVzdvK2zr8Sf6LwOLdDCgdbl8njBi0mxQJxgZap0NRJZn2odtEjngPV3E_c" />
+<img align="left" alt="Java" width="32px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Java.png" />
 <img align="left" alt="Unity" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" />
 <img align="left" alt="R" width="32px" src="https://static.macupdate.com/products/50318/l/rstudio-logo.png?v=1594908134" />
 <img align="left" alt="Visual BASIC" width="32px" src="https://icon-library.com/images/visual-basic-net-icon/visual-basic-net-icon-7.jpg" />
