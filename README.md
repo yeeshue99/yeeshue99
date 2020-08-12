@@ -1,4 +1,4 @@
-### Hi there, I'm Michael - aka [yeeshue99 [WIP]][website] 👋
+### Hi there, I'm Michael - aka [yeeshue99 [Website WIP]][website] 👋
 
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working in a [Digital Heritage Research Lab][hivelab]!
@@ -8,7 +8,8 @@
 - <img align="left" alt="League of Legends" width="18px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/09/icon_schOjzl.png" /> Fun fact: I love to play League of Legends, even though I'm not very good at it!
 
 ### Connect with me:
-[WIP]
+[Social Media WIP]
+
 [<img align="left" alt="yeeshue99.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="yeeshue99 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="yeeshue99 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
