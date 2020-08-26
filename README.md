@@ -34,6 +34,10 @@
 <br />
 
 ---
+<!--START_SECTION:activity-->
+
+
+---
 
 <img align="left" alt="yeeshue99's Github Stats" src="https://github-readme-stats-eta-smoky.vercel.app/api?username=yeeshue99&show_icons=true&hide_border=true" />
 
