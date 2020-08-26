@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="yeeshue99's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yeeshue99&show_icons=true&hide_border=true" />
+<img align="left" alt="yeeshue99's Github Stats" src="https://github-readme-stats-eta-smoky.vercel.app/api?username=yeeshue99&show_icons=true&hide_border=true" />
 
 [hivelab]: https://sites.ucmerced.edu/nlercari/hive-lab
 [IDTech]: https://www.idtech.com
