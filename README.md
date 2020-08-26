@@ -25,7 +25,7 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeshue99&layout=compact&hide=html" alt="yeeshue99" /></p>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=yeeshue99&show_icons=true" alt="yeeshue99" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yeeshue99&show_icons=true" alt="yeeshue99" /></p>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
