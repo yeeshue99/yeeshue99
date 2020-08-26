@@ -5,7 +5,7 @@
 - 🌱  I’m currently teaching and writing [programming courses for kids][IDTech]!
 - 🎓  I’m looking to network to prepare for graduation
 - 🥅  2020 Goals: Become more active on Github and contribute to an open source project!
-- <img align="left" alt="League of Legends" width="18px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/09/icon_schOjzl.png" /> Fun fact: I love to play League of Legends, even though I'm not very good at it!
+- 🎮  Fun fact: I love to play League of Legends, even though I'm not very good at it!
 
 ### Connect with me:
 [Social Media WIP]
