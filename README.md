@@ -1,50 +1,29 @@
-### Hi there, I'm Michael - aka [yeeshue99 [Website WIP]][website] 👋
+### Hi 👋, I'm Michael Ngo
 
-## I'm a Student, Developer, and Teacher!
-- 🔭  I’m currently working in a [Digital Heritage Research Lab][hivelab]!
-- 🌱  I’m currently teaching and writing [programming courses for kids][IDTech]!
-- 🎓  I’m looking to network to prepare for graduation
-- 🥅  2020 Goals: Become more active on Github and contribute to an open source project!
-- 🎮  Fun fact: I love to play League of Legends, even though I'm not very good at it!
+## A Student, Software Developer, and Teacher
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeshue99" alt="yeeshue99" /> </p>
 
-### Connect with me:
-[Social Media WIP]
+- 🔭 I’m currently working on **a California State Parks contracted project with [A Digital Heritage Lab][hivelab]!**
 
-[<img align="left" alt="yeeshue99.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="yeeshue99 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="yeeshue99 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yeeshue99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yeeshue99 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🏫 I’m currently teaching and writing **[programming courses for kids][IDTech]!**
 
-<br />
+- 🌱 I’m currently learning **javascript**
 
-### Languages and Tools:
+- 🤝 I’m looking for help with **online deployment**
 
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Unity" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="R" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Visual BASIC" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+- 💬 Ask me about **how I use Unity in the workplace**
 
-<br />
+- 📫 How to reach me **michael.ngo121@gmail.com**
 
----
-<!--START_SECTION:activity-->
+- ⚡ Fun fact **I love League of Legends, even though I'm not very good at it!**
 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="22" height="22"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeshue99&layout=compact&hide=html" alt="yeeshue99" /></p>
 
----
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yeeshue99&show_icons=true" alt="yeeshue99" /></p>
 
-<img align="left" alt="yeeshue99's Github Stats" src="https://github-readme-stats-eta-smoky.vercel.app/api?username=yeeshue99&show_icons=true&hide_border=true" />
+<p align="left">
+<a href="https://linkedin.com/in/michael-s-ngo" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michael-s-ngo" height="30" width="30" /></a>
+</p>
 
 [hivelab]: https://sites.ucmerced.edu/nlercari/hive-lab
 [IDTech]: https://www.idtech.com
-[website]: https://github.com/yeeshue99
-[twitter]: https://github.com/yeeshue99
-[youtube]: https://github.com/yeeshue99
-[instagram]: https://github.com/yeeshue99
-[linkedin]: https://www.linkedin.com/in/michael-s-ngo/
