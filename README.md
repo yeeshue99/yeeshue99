@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 🤝 I’m looking for help with **online deployment**
+- 🤝 I’m looking for help with **online databases**
 
 - 💬 Ask me about **how I use Unity in the workplace**
 
