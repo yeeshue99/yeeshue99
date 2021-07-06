@@ -1,17 +1,17 @@
 ### Hi 👋, I'm Michael Ngo
 
-## A Student, Software Developer, and Teacher
+## A Software Engineer and Mainframes Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeshue99" alt="yeeshue99" /> </p>
 
-- 🔭 I’m currently working on **a California State Parks contracted project with [A Digital Heritage Lab][hivelab]!**
+- 🔭 I’m currently developing and maintaining **mainframe systems with [Optum][optum]!**
 
-- 🏫 I’m currently teaching and writing **[programming courses for kids][IDTech]!**
+- 💵 I'm currently working on a startup that aims to bring NFTs into the eye of the public!
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **zOS**
 
-- 🤝 I’m looking for help with **online databases**
+- 🤝 I’m looking for help with **frontend and backend communication via api calls**
 
-- 💬 Ask me about **how I use Unity in the workplace**
+- 💬 Ask me about **what projects I am currently working on**
 
 - 📫 How to reach me: **michael.ngo121@gmail.com**
 
@@ -38,5 +38,4 @@
 <a href="https://linkedin.com/in/michael-s-ngo" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michael-s-ngo" height="30" width="30" /></a>
 </p>
 
-[hivelab]: https://sites.ucmerced.edu/nlercari/hive-lab
-[IDTech]: https://www.idtech.com
+[optum]: https://www.optum.com/
