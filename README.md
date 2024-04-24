@@ -1,15 +1,11 @@
 ### Hi 👋, I'm Michael Ngo
 
-## A Software Engineer and Mainframes Developer
+## A Software Engineer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeeshue99" alt="yeeshue99" /> </p>
 
-- 🔭 I’m currently developing and maintaining **mainframe systems with [Optum][optum]!**
+- 🔭 I’m currently developing and maintaining **software systems with [Optum][optum]!**
 
-- 💵 I'm currently working on a startup that aims to bring NFTs into the eye of the public!
-
-- 🌱 I’m currently learning **zOS**
-
-- 🤝 I’m looking for help with **frontend and backend communication via api calls**
+- 🌱 I’m currently learning **Azure**
 
 - 💬 Ask me about **what projects I am currently working on**
 
